@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/dice-game.git
+git clone [https://github.com/your-username/dice-game.git](https://github.com/SumitBagate/Dice-Roll-.git)
 Navigate into the project directory:
 
 bash
